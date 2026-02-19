@@ -52,7 +52,7 @@ except ValueError:
     print('Invalid number.')
 
 try:
-    operation = input('Enter operation (+, -, /, *, or =): ')
+    operation = input('Enter operation (+, -, /, *): ')
     if(operation != '+' and operation != '-' and operation != '/' and operation != '*'):
         raise InvalidOperatorError(f'Invalid operator {operation}, enter +, -, /, or *') #practicing using raise
 except InvalidOperatorError as e:
