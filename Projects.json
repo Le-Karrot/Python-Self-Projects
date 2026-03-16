@@ -1,0 +1,47 @@
+{
+        "C++":
+        {
+            "Difficulty":
+            {
+                "Beginner":
+                [
+                    "Console Banking System", "Student Grade Manager", "Scientific Calculator", "Payroll System", "Basic Text Editor", "Basic File Management System", "Contact Book App"
+                ],
+
+                "Intermediate": 
+                [
+                    "Any 2D game", "Management System of Choice", "Multi Threaded Web Server", "Text-Base Game", "Pong", "Space Invaders", "Pac Man", "Data Compression Tool"
+                ],
+
+                "Advanced": 
+                [
+                    "Mini game engine", "Custom Shell/Terminal Emulator", "Physics Engine", "Software Rasterizer", "Ray Tracer", "Custom Memory Allocator", "3D Bounce Ball Game", "Compiler"
+                ]
+            }
+        },
+        
+
+        "Python":
+         {
+            "Difficulty":
+            {
+                "Beginner":
+                [
+                    "Word Guessing Game", "Hang Man", "Mad lib Game", "Personal Budget Tracker", "To Do List", "Alarm/Timer", "Dice Game",  "Magic 8 Ball",
+                    "Currency Converter"
+                ],
+
+                "Intermediate": 
+                [
+                    "Snake Game", "Finance Dashboard", "Password Manager", "Tic Tac Toe", "Pokemon Stats API", "Binary Search Algorithm", "Clickomaina Game", "Battleship",
+                    "Flappy Bird", "Image Format Converter", "Video To Audio Converter", "Text to Speech Converter", "Bubble Shooter"
+                ],
+
+                "Advanced": 
+                [
+                    "Automated Web Scraper", "Discord Bot", "Python Interpreter", "Real Time Chat Application", "Mini Social Media", "Auto Clicker", "Random Password Generator"
+                ]
+            }
+        }
+
+}
